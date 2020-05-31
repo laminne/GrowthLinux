@@ -168,7 +168,7 @@ plasma-framework
 polkit
 polkit-gnome
 polkit-qt5
-powerline
+powerline-go
 pulseaudio
 pulseaudio-bluetooth
 pygobject-devel
