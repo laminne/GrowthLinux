@@ -41,9 +41,6 @@ boot_splash=false
 # A file for Japanese input is added.
 japanese=true
 
-# Set the user's default shell.
-usershell="/bin/bash"
-
 # Set the live environment user name
 username="growth"
 
