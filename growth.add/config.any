@@ -41,14 +41,15 @@ boot_splash=false
 # A file for Japanese input is added.
 japanese=true
 
-# Set the user's default shell.
-usershell="/bin/bash"
-
 # Set the live environment user name
-username="growth"
+defaultusername="growth"
 
 # Set the live environment user password
 password="growth"
 
 # Set the user's dafault shell.
 usershell="/bin/zsh"
+
+# Do not include the channel name in the filename of the image file.
+# This setting cannot be changed by an argument.
+nochname=true
