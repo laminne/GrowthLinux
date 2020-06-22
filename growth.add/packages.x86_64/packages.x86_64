@@ -120,7 +120,6 @@ lame
 lcms2
 llvm-libs
 lm_sensors
-lsd
 lua
 lvm2
 lzo
@@ -156,7 +155,6 @@ plasma-framework
 polkit
 polkit-gnome
 polkit-qt5
-powerline-go
 pulseaudio
 pulseaudio-bluetooth
 pygobject-devel
@@ -306,6 +304,3 @@ zeromq
 zinnia
 zita-alsa-pcmi
 zita-resampler
-zsh
-zsh-autosuggestions
-zsh-syntax-highlighting
