@@ -118,10 +118,6 @@ kxmlgui
 l-smash
 lame
 lcms2
-lightdm
-#lightdm-gtk-greeter
-lightdm-slick-greeter
-#lightdm-webkit2-greeter
 llvm-libs
 lm_sensors
 lsd
