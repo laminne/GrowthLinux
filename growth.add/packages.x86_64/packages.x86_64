@@ -4,7 +4,6 @@ adobe-source-code-pro-fonts
 alsa-lib
 alsa-topology-conf
 alsa-ucm-conf
-alterlinux-fcitx-conf
 aom
 appstream-glib
 archlinux-appstream-data
@@ -39,10 +38,6 @@ dosfstools
 double-conversion
 exo
 faad2
-fcitx
-fcitx-configtool
-fcitx-mozc
-fcitx-qt5
 ffmpeg
 flac
 fontconfig
