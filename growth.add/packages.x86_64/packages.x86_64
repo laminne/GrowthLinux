@@ -28,7 +28,6 @@ cairo
 cairomm
 cantarell-fonts
 cdparanoia
-chromium
 ckbcomp
 colord
 dav1d
@@ -45,7 +44,6 @@ fcitx-configtool
 fcitx-mozc
 fcitx-qt5
 ffmpeg
-firewalld
 flac
 fontconfig
 freetype2
@@ -147,7 +145,6 @@ mtpfs
 mugshot
 nano
 ndctl
-network-manager-applet
 nm-connection-editor
 noto-fonts
 noto-fonts-cjk
@@ -206,7 +203,6 @@ tslib
 ttf-liberation
 tumbler
 udisks2
-ufw
 upower
 usbmuxd
 v4l-utils
