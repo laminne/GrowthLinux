@@ -42,10 +42,14 @@ boot_splash=false
 japanese=true
 
 # Set the live environment user name
-username="growth"
+defaultusername="growth"
 
 # Set the live environment user password
 password="growth"
 
 # Set the user's dafault shell.
 usershell="/bin/zsh"
+
+# Do not include the channel name in the filename of the image file.
+# This setting cannot be changed by an argument.
+nochname=true
