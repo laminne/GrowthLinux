@@ -31,3 +31,5 @@ BackgroundDarkness=0.600000
 DropdownStatusIcon=FALSE
 DropdownAlwaysShowTabs=FALSE
 DropdownWidth=100
+DropdownPositionVertical=100
+
