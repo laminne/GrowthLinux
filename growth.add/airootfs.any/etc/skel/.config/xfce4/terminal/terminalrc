@@ -28,8 +28,9 @@ MiscNewTabAdjacent=FALSE
 MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=TRUE
 BackgroundDarkness=0.600000
-DropdownStatusIcon=FALSE
 DropdownAlwaysShowTabs=FALSE
 DropdownWidth=100
 DropdownPositionVertical=100
-
+DropdownKeepOpenDefault=TRUE
+DropdownStatusIcon=FALSE
+DropdownMoveToActive=FALSE
