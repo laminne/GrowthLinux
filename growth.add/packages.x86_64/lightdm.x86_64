@@ -1,4 +1,4 @@
 lightdm
-lightdm-slick-greeter
+# lightdm-slick-greeter
 # lightdm-gtk-greeter
-# lightdm-webkit2-greeter
+lightdm-webkit2-greeter
