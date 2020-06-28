@@ -39,6 +39,7 @@
       <property name="&lt;Alt&gt;F1" type="string" value="xfce4-popup-whiskermenu"/>
       <property name="Super_L" type="string" value="xfce4-popup-whiskermenu"/>
       <property name="Print" type="string" value="xfce4-screenshooter -fd 1"/>
+      <property name="F12" type="string" value="xfce4-terminal --drop-down"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
